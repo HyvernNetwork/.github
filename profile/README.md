@@ -12,6 +12,6 @@ Hyvern is a Hytale server dedicated to bringing its community the best possible 
 
 ## 🖥️ **Socials**
 - [Discord](https://www.hyvern.net/discord) 
-- [YouTube](https://www.youtube.com/@hyvernnetwork) 
+- [YouTube](https://www.youtube.com/@playhyvern) 
 - [Twitter](https://x.com/playhyvern) 
 - [Tiktok](https://www.tiktok.com/@playhyvern)
